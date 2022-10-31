@@ -12,6 +12,13 @@ Output File
 All the numbers read from the input file, are printed one per line followed by a sentence indicating whether the number is or is not Armstrong number and whether it is or is not a perfect number.
 
 Sample Input
-153
-6
-0
+/n153
+/n6
+/n0
+
+
+Sample Output
+153 is an Armstrong number but it is not a perfect number. 
+6 is not an Armstrong number but it is a perfect number.
+
+
